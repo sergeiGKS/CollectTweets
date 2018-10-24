@@ -1,2 +1,7 @@
 # CollectTweets
-This project describes how to collect tweets from query without any limitation by using Got and Tweepy libraries 
+This project describes how to collect all tweets  without any limitation, by using Got (https://github.com/Jefferson-Henrique/GetOldTweets-python) and Tweepy (https://github.com/tweepy/tweepy) libraries and with Python version 2.7+. We also use Geograpy (https://github.com/ushahidi/geograpy) to parse user location to get country. 
+
+# Requirement
+You need to install the package dependencieslisted in the "requirements.txt" file 
+
+
